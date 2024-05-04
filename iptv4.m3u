@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://114.98.190.30:2000/rtp/238.1.78.166:7200
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
@@ -146,7 +148,7 @@ http://114.98.190.30:2000/rtp/238.1.78.155:7112
 #EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="卫视频道",乐游频道
 
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="卫视频道",都市剧场
-
+http://php.jdshipin.com:8880/bst.php?id=dsjchd/4000000
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="卫视频道",欢笑剧场
 
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="卫视频道",纪实科教
@@ -306,16 +308,15 @@ http://114.98.190.30:2000/rtp/238.1.79.57:4592
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
 
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
-
+https://livedoc.cgtn.com/500d/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
-
+http://tvbox.netsite.cc/proxy/619133474/619133474.m3u8
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视频道",CGTN法语
-
+https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视频道",CGTN西语
 
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",
 
 #EXTINF:-1 tvg-id="BRTV新闻HD" tvg-name="BRTV新闻HD" tvg-logo="" group-title="北京联通",BRTV新闻HD
 http://123.115.114.183:9000/rtp/239.3.1.159:8000
@@ -363,3 +364,26 @@ http://123.115.114.183:9000/rtp/239.3.1.93:4120
 http://123.115.114.183:9000/rtp/239.3.1.74:4120
 #EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="" group-title="北京联通",经典电影
 http://123.115.114.183:9000/rtp/239.3.1.195:9024
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="辽宁联通",
+
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="" group-title="辽宁联通",辽宁卫视
+http://rt4.orangevip.top:8999/rtp/232.0.0.126:1234
+#EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="" group-title="辽宁联通",辽宁都市
+http://rt4.orangevip.top:8999/rtp/232.0.0.154:1234
+#EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="" group-title="辽宁联通",辽宁影视剧
+http://rt4.orangevip.top:8999/rtp/232.0.0.25:1234
+#EXTINF:-1 tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="" group-title="辽宁联通",辽宁体育
+http://rt4.orangevip.top:8999/rtp/232.0.0.164:1234
+#EXTINF:-1 tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="" group-title="辽宁联通",辽宁生活
+http://rt4.orangevip.top:8999/rtp/232.0.0.150:1234
+#EXTINF:-1 tvg-id="辽宁教育青少" tvg-name="辽宁教育青少" tvg-logo="" group-title="辽宁联通",辽宁教育青少
+http://rt4.orangevip.top:8999/rtp/232.0.0.241:1234
+#EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="" group-title="辽宁联通",辽宁北方
+http://rt4.orangevip.top:8999/rtp/232.0.0.151:1234
+#EXTINF:-1 tvg-id="辽宁宜佳购物" tvg-name="辽宁宜佳购物" tvg-logo="" group-title="辽宁联通",辽宁宜佳购物
+http://rt4.orangevip.top:8999/rtp/232.0.0.30:1234
+#EXTINF:-1 tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="" group-title="辽宁联通",辽宁公共
+http://rt4.orangevip.top:8999/rtp/232.0.0.168:1234
+#EXTINF:-1 tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="" group-title="辽宁联通",辽宁经济
+http://rt4.orangevip.top:8999/rtp/232.0.0.156:1234
