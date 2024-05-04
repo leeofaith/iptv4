@@ -32,9 +32,9 @@ http://114.98.190.30:2000/rtp/238.1.78.243:7816
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
 http://114.98.190.30:2000/rtp/238.1.78.222:7648
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575103.m3u8
+http://123.115.114.183:9000/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://114.98.190.30:2000/rtp/238.1.78.178:7296
+http://123.115.114.183:9000/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 4K
 http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
@@ -134,7 +134,7 @@ http://114.98.190.30:2000/rtp/238.1.78.158:7136
 #EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="卫视频道",CETV-2
 http://114.98.190.30:2000/rtp/238.1.78.106:6720
 #EXTINF:-1 tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="卫视频道",CETV-3
-
+http://123.115.114.183:9000/rtp/239.3.1.55:4120
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV-4
 http://114.98.190.30:2000/rtp/238.1.78.107:6728
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="卫视频道",金色学堂
@@ -314,3 +314,52 @@ http://114.98.190.30:2000/rtp/238.1.79.57:4592
 #EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视频道",CGTN西语
 
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",
+
+#EXTINF:-1 tvg-id="BRTV新闻HD" tvg-name="BRTV新闻HD" tvg-logo="" group-title="北京联通",BRTV新闻HD
+http://123.115.114.183:9000/rtp/239.3.1.159:8000
+#EXTINF:-1 tvg-id="BRTV影视HD" tvg-name="BRTV影视HD" tvg-logo="" group-title="北京联通",BRTV影视HD
+http://123.115.114.183:9000/rtp/239.3.1.158:8000
+#EXTINF:-1 tvg-id="BRTV文艺HD" tvg-name="BRTV文艺HD" tvg-logo="" group-title="北京联通",BRTV文艺HD
+http://123.115.114.183:9000/rtp/239.3.1.242:8000
+#EXTINF:-1 tvg-id="BRTV财经HD" tvg-name="BRTV财经HD" tvg-logo="" group-title="北京联通",BRTV财经HD
+http://123.115.114.183:9000/rtp/239.3.1.116:8000
+#EXTINF:-1 tvg-id="BRTV生活HD" tvg-name="BRTV生活HD" tvg-logo="" group-title="北京联通",BRTV生活HD
+http://123.115.114.183:9000/rtp/239.3.1.117:8000
+#EXTINF:-1 tvg-id="BRTV青年HD" tvg-name="BRTV青年HD" tvg-logo="" group-title="北京联通",BRTV青年HD
+http://123.115.114.183:9000/# rtp/239.3.1.118:8000
+#EXTINF:-1 tvg-id="BRTV纪实科教HD" tvg-name="BRTV纪实科教HD" tvg-logo="" group-title="北京联通",BRTV纪实科教HD
+http://123.115.114.183:9000/rtp/239.3.1.115:8000
+#EXTINF:-1 tvg-id="BRTV卡酷少儿HD" tvg-name="BRTV卡酷少儿HD" tvg-logo="" group-title="北京联通",BRTV卡酷少儿HD
+http://123.115.114.183:9000/rtp/239.3.1.189:8000
+#EXTINF:-1 tvg-id="BRTV冬奥纪实HD" tvg-name="BRTV冬奥纪实HD" tvg-logo="" group-title="北京联通",BRTV冬奥纪实HD
+http://123.115.114.183:9000/# rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-id="BRTV冬奥纪实［HDR］" tvg-name="BRTV冬奥纪实［HDR］" tvg-logo="" group-title="北京联通",BRTV冬奥纪实［HDR］
+http://123.115.114.183:9000/# rtp/239.3.1.120:8000
+#EXTINF:-1 tvg-id="BRTV体育休闲［超清］" tvg-name="BRTV体育休闲［超清］" tvg-logo="" group-title="北京联通",BRTV体育休闲［超清］
+http://123.115.114.183:9000/# rtp/239.3.1.121:8000
+#EXTINF:-1 tvg-id="BTV国际频道" tvg-name="BTV国际频道" tvg-logo="" group-title="北京联通",BTV国际频道
+http://123.115.114.183:9000/rtp/239.3.1.235:8000
+#EXTINF:-1 tvg-id="爱上4K［超清］" tvg-name="爱上4K［超清］" tvg-logo="" group-title="北京联通",爱上4K［超清］
+http://123.115.114.183:9000/rtp/239.3.1.236:2000
+#EXTINF:-1 tvg-id="4K超清［超清］" tvg-name="4K超清［超清］" tvg-logo="" group-title="北京联通",4K超清［超清］
+http://123.115.114.183:9000/rtp/239.3.1.249:8001
+#EXTINF:-1 tvg-id="淘电影HD" tvg-name="淘电影HD" tvg-logo="" group-title="北京联通",淘电影HD
+http://123.115.114.183:9000/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-id="每日影院HD" tvg-name="每日影院HD" tvg-logo="" group-title="北京联通",每日影院HD
+http://123.115.114.183:9000/# rtp/239.3.1.111:8001
+#EXTINF:-1 tvg-id="星影" tvg-name="星影" tvg-logo="" group-title="北京联通",星影
+http://123.115.114.183:9000/rtp/239.3.1.94:4120
+#EXTINF:-1 tvg-id="动作影院" tvg-name="动作影院" tvg-logo="" group-title="北京联通",动作影院
+http://123.115.114.183:9000/rtp/239.3.1.92:4120
+#EXTINF:-1 tvg-id="光影" tvg-name="光影" tvg-logo="" group-title="北京联通",光影
+http://123.115.114.183:9000/rtp/239.3.1.84:4120
+#EXTINF:-1 tvg-id="喜剧影院" tvg-name="喜剧影院" tvg-logo="" group-title="北京联通",喜剧影院
+http://123.115.114.183:9000/rtp/239.3.1.91:4120
+#EXTINF:-1 tvg-id="家庭影院" tvg-name="家庭影院" tvg-logo="" group-title="北京联通",家庭影院
+http://123.115.114.183:9000/rtp/239.3.1.93:4120
+#EXTINF:-1 tvg-id="精选" tvg-name="精选" tvg-logo="" group-title="北京联通",精选
+http://123.115.114.183:9000/rtp/239.3.1.74:4120
+#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="" group-title="北京联通",经典电影
+http://123.115.114.183:9000/rtp/239.3.1.195:9024
