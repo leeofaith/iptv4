@@ -210,12 +210,41 @@ http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央视频道",CHC高清电影
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰中文
 http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
 http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港频道",凤凰香港
 http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="" group-title="台湾频道",东森新闻
+http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
+#EXTINF:-1 tvg-id="TVBS NEWS" tvg-name="TVBS NEWS" tvg-logo="" group-title="台湾频道",TVBS NEWS
+http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="" group-title="台湾频道",中天新闻
+http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
+#EXTINF:-1 tvg-id="三立台湾" tvg-name="三立台湾" tvg-logo="" group-title="台湾频道",三立台湾
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8
+#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="" group-title="台湾频道",三立新闻
+http://154.yfvodcdn.com:8080/live/slxw01/hls.m3u8
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="" group-title="台湾频道",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+
+#EXTINF:-1 tvg-id="靖天日本" tvg-name="靖天日本" tvg-logo="" group-title="日本频道",靖天日本
+https://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
+#EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="" group-title="日本频道",纬来日本
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
+
+#EXTINF:-1 tvg-id="KBS-1" tvg-name="KBS-1" tvg-logo="" group-title="韩国频道",KBS-1
+http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+
+#EXTINF:-1 tvg-id="美国NBC News" tvg-name="美国NBC News" tvg-logo="" group-title="美国频道",美国NBC News
+https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
+#EXTINF:-1 tvg-id="美国ABC News" tvg-name="美国ABC News" tvg-logo="" group-title="美国频道",美国ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="英国BBC" tvg-name="英国BBC" tvg-logo="" group-title="英国频道",英国BBC
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 
 #EXTINF:-1 tvg-id="CGTN新闻" tvg-name="CGTN新闻" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN新闻
 http://114.252.199.35:10000/rtp/239.3.1.215:4220
